@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "kanpai-scraper": "^0.1.0",
     "p-limit": "^2.2.0",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "typescript": "^3.4.5",
     "winston": "^3.3.3"
   },
